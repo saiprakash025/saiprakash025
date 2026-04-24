@@ -56,10 +56,10 @@
 | Project | Description | Tech | Live |
 |---------|-------------|------|------|
 | [WatchParty Hub](https://github.com/saiprakash025/watchparty-hub) | Real-time watch party app with rooms and live sync | React, Node.js, Socket.IO, MongoDB | [🔗 Live](https://watchparty-hub.vercel.app/login) |
-| [Chat App](https://github.com/saiprakash025/chatapp) | Real-time chat application | TypeScript, Node.js, Socket.IO | — |
-| [TaskFlow API](https://github.com/saiprakash025/taskflow-api) | RESTful task management API | Node.js, Express, MongoDB | — |
-| [Todo App](https://github.com/saiprakash025/todo-app) | Project-based task manager with persistent storage | JavaScript | — |
-| [Tic Tac Toe](https://github.com/saiprakash025/tic-tac-toe) | Interactive game with HTML5 Canvas API | HTML5, CSS, JavaScript | — |
+| [Chat App](https://github.com/saiprakash025/chatapp) | Real-time chat application | TypeScript, Node.js, Socket.IO | [🔗 Live](https://chatapp-khaki-two.vercel.app/) |
+| [TaskFlow API](https://github.com/saiprakash025/taskflow-api) | RESTful task management API | Node.js, Express, MongoDB | [🔗 Live](https://taskflow-api-1.vercel.app/login) |
+| [Todo App](https://github.com/saiprakash025/todo-app) | Project-based task manager with persistent storage | JavaScript | [🔗 Live](https://saiprakash025.github.io/todo-app/) |
+| [Tic Tac Toe](https://github.com/saiprakash025/tic-tac-toe) | Interactive game with HTML5 Canvas API | HTML5, CSS, JavaScript | [🔗 Live](https://saiprakash025.github.io/tic-tac-toe/) |
 
 ---
 
