@@ -17,7 +17,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Currently building **[WatchParty Hub](https://watchparty-hub.vercel.app/login)** — a real-time watch party app
 - 🌱 Learning and growing in **Full Stack Development** (React, Node.js, Socket.IO, MongoDB)
 - 💬 Ask me about **JavaScript, React, Node.js, REST APIs, WebSockets**
 - 📫 Reach me at **saiprakashraokotla@gmail.com**
