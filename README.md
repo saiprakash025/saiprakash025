@@ -101,10 +101,3 @@
 | [Tic Tac Toe](https://github.com/saiprakash025/tic-tac-toe) | Interactive game with HTML5 Canvas API | HTML5, CSS, JavaScript | [🔗 Live](https://saiprakash025.github.io/tic-tac-toe/) |
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saiprakash025&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiprakash025&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
-</p>
