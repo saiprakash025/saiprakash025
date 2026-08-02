@@ -64,6 +64,7 @@
 
 - 🔧 **Tech:** React · Node.js · Express.js · MongoDB · JWT
 - 🔗 **Repo:** [saiprakash025/Teamflow](https://github.com/saiprakash025/Teamflow)
+- 🔗 **Live:** [teamflow-sigma-silk.vercel.app](https://teamflow-sigma-silk.vercel.app)
 
 ---
 
@@ -71,6 +72,7 @@
 > Parses pasted job descriptions and generates categorized interview questions (aptitude, technical, HR) with difficulty ratings via the Gemini API — with a defensive JSON-parsing layer and a GitHub Actions CI pipeline.
 
 - 🔧 **Tech:** React · Node.js · Express.js · MongoDB · Gemini API · GitHub Actions
+- - 🔗 **Repo:** [saiprakash025/interview-prep-copilot](https://github.com/saiprakash025/interview-prep-copilot)
 - 🌐 **Live:** [interview-prep-copilot.vercel.app](https://interview-prep-copilot.vercel.app)
 
 ---
