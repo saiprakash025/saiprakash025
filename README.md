@@ -1,12 +1,15 @@
 <h1 align="center">Hi, I'm Sai Prakash 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer</b> · Building real-time web apps with modern JavaScript
+  <b>Full Stack Developer</b> · Building full-stack, real-time, and AI-integrated web apps
 </p>
 
 <p align="center">
   <a href="mailto:saiprakashraokotla@gmail.com">
     <img src="https://img.shields.io/badge/Email-saiprakashraokotla@gmail.com-blue?style=flat-square&logo=gmail" />
+  </a>
+  <a href="https://linkedin.com/in/saiprakash025">
+    <img src="https://img.shields.io/badge/LinkedIn-saiprakash025-blue?style=flat-square&logo=linkedin" />
   </a>
   <a href="https://github.com/saiprakash025">
     <img src="https://img.shields.io/github/followers/saiprakash025?label=Follow&style=flat-square" />
@@ -17,10 +20,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 Learning and growing in **Full Stack Development** (React, Node.js, Socket.IO, MongoDB)
-- 💬 Ask me about **JavaScript, React, Node.js, REST APIs, WebSockets**
+- 🎓 Final-year CSE undergrad (IoT specialization), graduating **August 2026**
+- 💻 Focused on **full-stack MERN development**, with hands-on **AI API integration** (Gemini)
+- 💬 Ask me about **React, Node.js, Express, MongoDB, REST APIs, Socket.IO**
+- 🌏 Open to relocating — currently targeting full-stack internship/junior roles, including opportunities in Japan
 - 📫 Reach me at **saiprakashraokotla@gmail.com**
-- ⚡ Fun fact: I enjoy building things that connect people in real time!
 
 ---
 
@@ -29,16 +33,19 @@
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### AI / Cloud
+![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ### Database & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
@@ -52,8 +59,33 @@
 
 ## 🚀 Featured Projects
 
-### 🧩 TaskFlow — Task Management API
-> A robust RESTful API for managing tasks with user authentication, project organization, and full CRUD operations.
+### 🧩 TeamFlow — Multi-Project Task & Incident Management Platform
+> Dependency-aware task system with cycle detection, a structured root-cause-analysis (RCA) workflow with multi-reviewer sign-off, project-scoped RBAC, and a drag-and-drop Kanban board with optimistic UI updates.
+
+- 🔧 **Tech:** React · Node.js · Express.js · MongoDB · JWT
+- 🔗 **Repo:** [saiprakash025/Teamflow](https://github.com/saiprakash025/Teamflow)
+
+---
+
+### 🤖 Interview Prep Copilot — AI-Powered Interview Prep Tool
+> Parses pasted job descriptions and generates categorized interview questions (aptitude, technical, HR) with difficulty ratings via the Gemini API — with a defensive JSON-parsing layer and a GitHub Actions CI pipeline.
+
+- 🔧 **Tech:** React · Node.js · Express.js · MongoDB · Gemini API · GitHub Actions
+- 🌐 **Live:** [interview-prep-copilot.vercel.app](https://interview-prep-copilot.vercel.app)
+
+---
+
+### 🎬 WatchParty Hub — Real-Time Collaborative Watch Party App
+> Real-time synchronized viewing sessions for groups, built on Socket.IO with JWT-based auth and protected routes.
+
+- 🔧 **Tech:** React · Node.js · Express.js · Socket.IO · MongoDB · JWT
+- 🔗 **Repo:** [saiprakash025/watchpartyhub](https://github.com/saiprakash025/watchpartyhub)
+- 🌐 **Live:** [watchparty-hub.vercel.app](https://watchparty-hub.vercel.app)
+
+---
+
+### 📋 TaskFlow — Task Management API
+> RESTful API for managing tasks, with dual authentication (JWT + API key), role-based access control, and rate limiting.
 
 - 🔧 **Tech:** Node.js · Express.js · MongoDB · JWT · REST API
 - 🔗 **Repo:** [saiprakash025/taskflow-api](https://github.com/saiprakash025/taskflow-api)
@@ -61,28 +93,10 @@
 
 ---
 
-### 👥 TeamFlow — Team Task Manager
-> A full-stack MERN application with role-based access control (Admin / Member), team collaboration, task assignments, and analytics dashboard.
-
-- 🔧 **Tech:** React · Node.js · Express.js · MongoDB · JWT · Role-Based Auth
-- 🔗 **Repo:** [saiprakash025/teamflow](https://github.com/saiprakash025/teamflow)
-
----
-
-### 🎬 WatchParty Hub — Real-Time Watch Party App
-> Watch YouTube videos in sync with friends in real time. Create rooms, invite others, and enjoy perfectly synchronized playback with live chat.
-
-- 🔧 **Tech:** React · Node.js · Socket.IO · MongoDB · WebSockets
-- 🔗 **Repo:** [saiprakash025/watchparty-hub](https://github.com/saiprakash025/watchparty-hub)
-- 🌐 **Live:** [watchparty-hub.vercel.app/login](https://watchparty-hub.vercel.app/login)
-
----
-
 ## 📂 Other Projects
 
 | Project | Description | Tech | Live |
 |---------|-------------|------|------|
-| [Chat App](https://github.com/saiprakash025/chatapp) | Real-time chat application | TypeScript, Node.js, Socket.IO | [🔗 Live](https://chatapp-khaki-two.vercel.app/) |
 | [Todo App](https://github.com/saiprakash025/todo-app) | Project-based task manager with persistent storage | JavaScript | [🔗 Live](https://saiprakash025.github.io/todo-app/) |
 | [Tic Tac Toe](https://github.com/saiprakash025/tic-tac-toe) | Interactive game with HTML5 Canvas API | HTML5, CSS, JavaScript | [🔗 Live](https://saiprakash025.github.io/tic-tac-toe/) |
 
@@ -93,10 +107,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saiprakash025&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiprakash025&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
-</p>
-
----
-
-<p align="center">
-  <i>⭐ If you like my work, consider giving a star to my repositories!</i>
 </p>
