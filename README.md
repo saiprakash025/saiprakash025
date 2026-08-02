@@ -23,7 +23,7 @@
 - 🎓 Final-year CSE undergrad (IoT specialization), graduating **August 2026**
 - 💻 Focused on **full-stack MERN development**, with hands-on **AI API integration** (Gemini)
 - 💬 Ask me about **React, Node.js, Express, MongoDB, REST APIs, Socket.IO**
-- 🌏 Open to relocating — currently targeting full-stack internship/junior roles, including opportunities in Japan
+- 🌏 Open to relocating — currently targeting full-stack internship/junior and SDE roles
 - 📫 Reach me at **saiprakashraokotla@gmail.com**
 
 ---
